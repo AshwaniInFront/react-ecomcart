@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AshwaniInFront/react-ecomcart.git/static/css/main.33b9d51f.css",
+    "main.js": "/AshwaniInFront/react-ecomcart.git/static/js/main.636096cc.js",
+    "index.html": "/AshwaniInFront/react-ecomcart.git/index.html",
+    "main.33b9d51f.css.map": "/AshwaniInFront/react-ecomcart.git/static/css/main.33b9d51f.css.map",
+    "main.636096cc.js.map": "/AshwaniInFront/react-ecomcart.git/static/js/main.636096cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b9d51f.css",
+    "static/js/main.636096cc.js"
+  ]
+}
